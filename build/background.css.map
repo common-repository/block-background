@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/style.scss"],"names":[],"mappings":"AAAA,oBACC,gCAAkC,CAClC,wBAGA,kBAAmB","file":"background.css","sourcesContent":[".wp-block-paragraph{\n\tbackground: transparent !important;\n}\n\n.block-background__type{\n\tmargin-bottom: 15px;\n}\n\n\n\n// WEBPACK FOOTER //\n// ./src/style.scss"],"sourceRoot":""}
